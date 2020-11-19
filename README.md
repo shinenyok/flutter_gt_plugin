@@ -12,7 +12,7 @@
 
 在工程 pubspec.yaml 中加入 dependencies
   flutter_gt_plugin:
-    git: http://gogs.visionacademy.cn/mobile/flutter_gt_plugin.git
+    git: https://github.com/shinenyok/flutter_gt_plugin.git
 
 ## 配置
 ### iOS:
